@@ -41,4 +41,12 @@ An example session could like:
 	# writes 3 files, starts up a server, then draws some beautiful points in Chrome
 	fig.show() 
 
-Check out the examples in the folder for more functionality! 
+
+    # add iframe functionality in iPython Notebook with
+    import IPython.core.display 
+    IPython.core.display.HTML('<iframe src=http://localhost:8000/basic_example.html width=700 height=400>')
+
+Check out the examples in the folder for more functionality!
+
+![alt text][logo]
+[logo]: https://raw.github.com/bigsnarfdude/d3py/master/Screen%20Shot%202012-12-30%20at%2011.46.37%20AM.png "Embedded iFrame in iPython Notebook Screenshot"
