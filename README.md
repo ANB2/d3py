@@ -50,3 +50,20 @@ Check out the examples in the folder for more functionality!
 
 ![alt text][logo]
 [logo]: https://raw.github.com/bigsnarfdude/d3py/master/Screen%20Shot%202012-12-30%20at%2011.46.37%20AM.png "Embedded iFrame in iPython Notebook Screenshot"
+Check out the examples in the folder for more functionality! Assuming everything is working OK, the examples should generate (something akin to) the following plots:
+
+# point
+
+![point example](http://mikedewar.org/scatter.png)
+
+# line
+
+![line example](http://mikedewar.org/line.png)
+
+# bar
+
+![bar example](http://mikedewar.org/bar.png)
+
+# area
+
+![area example](http://mikedewar.org/area.png)
