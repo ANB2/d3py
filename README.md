@@ -47,7 +47,7 @@ An example session could like:
     IPython.core.display.HTML('<iframe src=http://localhost:8000/basic_example.html width=700 height=400>')
 
 # iPython Notebook embed
-Here is an embed of the graphics in iPython Notebook. Examples of the images below. Check out the examples folder for more.
+Here is an embed of the graphics in iPython Notebook. Example images below. Check out the examples folder for more.
 
 ![alt text][logo]
 [logo]: https://raw.github.com/bigsnarfdude/d3py/master/Screen%20Shot%202012-12-30%20at%2011.46.37%20AM.png "Embedded iFrame in iPython Notebook Screenshot"
