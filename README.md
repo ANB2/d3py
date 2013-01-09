@@ -46,6 +46,7 @@ An example session could like:
     import IPython.core.display 
     IPython.core.display.HTML('<iframe src=http://localhost:8000/basic_example.html width=700 height=400>')
 
+# iPython Notebook embed
 Here is an embed of the graphics in iPython Notebook. Examples of the images below. Check out the examples folder for more.
 
 ![alt text][logo]
