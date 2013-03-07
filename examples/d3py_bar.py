@@ -1,7 +1,8 @@
 import pandas
 import d3py
-
+import pdb
 import logging
+pdb.set_trace()
 logging.basicConfig(level=logging.DEBUG)
 
 
